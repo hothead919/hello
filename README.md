@@ -1,0 +1,4 @@
+hello
+=====
+
+An example repository.
